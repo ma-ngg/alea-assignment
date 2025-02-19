@@ -1,0 +1,15 @@
+{
+  "count": 5,
+  "next": null,
+  "previous": "https://pokeapi.co/api/v2/pokemon?offset=20&limit=20",
+  "results": [
+    {
+      "name": "bulbasaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/4/"
+    },
+    {
+      "name": "ivysaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/5/"
+    }
+  ]
+}
